@@ -17,8 +17,16 @@ A medical ontology is expected to cover its domain completely and correctly. On 
 - [Dictionary Presence](#license)
 - [Concept Utility Formula](#acknowledgments)
 - [Human Physician Survey (Iteration 1)](#)
+  - Analysis (Normal Distribution)
+  - Bayesian Optimization (Weights Retrieval)
 - [Human Physician Survey (Iteration 2)](#)
+  - Analysis (Normal Distribution)
+  - Bayesian Optimization (Weights Retrieval)
 - [Human Physician Survey (Iteration 3)](#)
+  - Analysis (Normal Distribution)
+  - Bayesian Optimization (Weights Retrieval)
+- Limitations
+- Future Work
 
 ---
 
