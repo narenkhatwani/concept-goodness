@@ -7,13 +7,16 @@
 
 ## 🚀 Table of Contents
 
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [UMLS Concept Retrieval](#about)
+- [Semantic Type Filtering](#installation)
+- [Word Count of Concepts](#usage)
+- [Frequency of Occurence in PUBMED](#features)
+- [German Language Mappability](#contributing)
+- [Dictionary Presence](#license)
+- [Concept Utility Formula](#acknowledgments)
+- [Human Physician Survey (Iteration 1)](#)
+- [Human Physician Survey (Iteration 2)](#)
+- [Human Physician Survey (Iteration 3)](#)
 
 ---
 
