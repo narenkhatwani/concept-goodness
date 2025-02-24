@@ -1,0 +1,5 @@
+# ABSTRACT
+
+A medical ontology is expected to cover its domain completely and correctly. On the other hand, large ontologies are hard to build, hard to understand, and hard to maintain. Thus, adding new concepts (often multi-word concepts) to an existing ontology must be done judiciously. Only “useful” concepts should be added; however, it is difficult to define what makes a concept useful. In this research, we propose a metric to measure the utility of a concept. We identified factors that appear to influence “goodness” judgments of medical experts and combined them into a single metric. These factors include concept name length (in words), concept occurrence frequency in the medical literature, and syntactic categories of component words. As an added factor we used the simplicity of a term after mapping it into a specific foreign language. We performed Bayesian optimization of factor weights to achieve maximum agreement between the metric and three medical experts. The results showed that our metric had a fair overall agreement with the experts, as measured by Fleiss’ Kappa (0.2429).
+
+**Next** -> [[UMLS Concept Retrieval]]
