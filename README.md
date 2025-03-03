@@ -34,6 +34,11 @@ A medical ontology is expected to cover its domain completely and correctly. On 
 - Future Work
 
 ---
+## Flow Diagram for the Entire Goodness Formula
+<img src="Images/FlowChart.svg" alt="Flow Diagram" width="auto">
+
+
+---
 
 ## 📖 About
 
