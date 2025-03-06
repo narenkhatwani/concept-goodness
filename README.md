@@ -42,7 +42,7 @@ A medical ontology is expected to cover its domain completely and correctly. On 
 
 ## 📖 About
 
-(Add a more detailed explanation of your project. What problem does it solve? Why did you create it? How does it work?)
+
 
 ---
 
